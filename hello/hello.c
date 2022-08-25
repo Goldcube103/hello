@@ -13,4 +13,10 @@ int main(int argc, char **argv){
   printf("Walker Lee :0\n");
   printf("Computer science\n");
 
+
+
+  printf("Matthew Wang\n");
+  printf("Computer Science\n");
 }
+
+
